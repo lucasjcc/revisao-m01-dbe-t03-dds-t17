@@ -58,6 +58,8 @@ O time A já venceu pois atingiu pelo menos 25 pontos e pelo menos dois de vanta
 O time A está vencendo. Ainda não venceu pois, apesar de ter feito mais de 25 pontos, ainda não atingiu pelo menos 2 de vantagem.
 
 
+---
+
 # Sinuca Brasileira
 
 ## Problema
